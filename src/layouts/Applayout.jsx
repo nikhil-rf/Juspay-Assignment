@@ -2,7 +2,7 @@ import { Outlet } from "react-router-dom";
 import LeftPanel from "../components/leftPanel/LeftPanel";
 import Navbar from "../components/navbar/Navbar";
 import RightPanel from "../components/rightPanel/RightPanel";
-import { Container, MainContainer } from "./layourStyled";
+import { Container, MainContainer } from "./LayoutStyled.jsx";
 
 import { AppProvider } from "../context/AppContext";
 
