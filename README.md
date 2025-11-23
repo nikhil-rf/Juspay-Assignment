@@ -16,8 +16,6 @@ Icons: Lucide React
 
 Language: JavaScript
 
-Deploymet: Vercel
-
 💻 Setup & Installation
 
 Follow these steps to set up and run the project locally on your machine.
@@ -50,19 +48,42 @@ Open the app
 
 Visit http://localhost:5173 (or the URL shown in your terminal) in your browser.
 
+
+
+
+
 📝 Design Decisions, Challenges & Improvements
 
-Challenges Faced & Key Learnings
+🏆 Challenges Faced & Improvements Made
 
 "During this assignment, I have tackled and learned many things. Before this, I used to code in a very simple way, but by this assignment, I have done research and got to know about new code writing practices and also to optimize my code as much as I can. I also learned new things about searching, sorting, filtering the data present in our website and also learned to implement clean and efficient UI."
 
-Design Decisions
+I researched and understood better coding practices
 
-Vite: Chosen for its superior build performance and fast Hot Module Replacement (HMR) compared to traditional bundlers.
+Improved structure by using reusable and optimized components
 
-Component Modularity: The application is structured into reusable components to keep the codebase clean and maintainable.
+Learned searching, sorting and filtering dataset efficiently
 
-Lucide React: Integrated for lightweight, consistent SVG icons that support dynamic styling (sizing and coloring based on themes).
+Enhanced UI designs keeping clean and professional look
+
+Successfully implemented Dark Mode with dynamic styles
+
+Fixed chart styling issues and conflicts with global CSS
+
+This assignment improved my debugging skills and strengthened my knowledge of frontend development best practices.
+
+
+
+🧠 Design Decisions
+
+Clean UI with a focus on readability and usability
+
+Color palette optimized for accessibility in both themes
+
+Organized component folder structure to keep code scalable
+
+Used Recharts for interactive and clean data visualization
+
 
 Improvements Implemented
 
